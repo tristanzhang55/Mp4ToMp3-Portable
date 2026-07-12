@@ -1,0 +1,10 @@
+MP4 to MP3 Converter
+
+This application bundles FFmpeg, which is licensed under the GNU General Public
+License version 3 (GPL v3).
+
+FFmpeg 7.1.1-essentials_build
+Source: https://github.com/FFmpeg/FFmpeg
+Build: https://www.gyan.dev/ffmpeg/builds/
+
+For the full FFmpeg license, see ffmpeg-7.1.1-essentials_build/LICENSE.
